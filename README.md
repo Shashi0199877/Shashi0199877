@@ -9,13 +9,33 @@
 <br>
 <p>🌱🌴 • <b>Languages Learning : </b></p>
 <ul>
-<li>Html
+<li style="background-image: url(html.gif); 
+            background-repeat: repeat; 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent;
+            -webkit-font-smoothing: antialiased;">
+Html
 </li>
-<li>Css
+<li style="background-image: url(css.gif); 
+            background-repeat: no-repeat; 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent;
+            -webkit-font-smoothing: antialiased;">
+Css
 </li>
-<li>Js
+<li style="background-image: url(js.gif); 
+            background-repeat: no-repeat; 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent;
+            -webkit-font-smoothing: antialiased;">
+Js
 </li>
-<li>Java
+<li style="background-image: url(java.gif); 
+            background-repeat: no-repeat; 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent;
+            -webkit-font-smoothing: antialiased;">
+Java
 </li>
 </ul>
 
