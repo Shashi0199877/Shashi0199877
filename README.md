@@ -8,38 +8,6 @@
 <br>
 <br>
 <p>🌱🌴 • <b>Languages Learning : </b></p>
-<ul>
-<li>
-<p style="background-image: url(html.gif); 
-            background-repeat: repeat; 
-            -webkit-background-clip: text; 
-            -webkit-text-fill-color: transparent;
-            -webkit-font-smoothing: antialiased;">
-Html
-</p>
-</li>
-<li style="background-image: url(css.gif); 
-            background-repeat: no-repeat; 
-            background-color: 
--webkit-background-clip: text; 
-            -webkit-text-fill-color: transparent;
-            -webkit-font-smoothing: antialiased;">
-Css
-</li>
-<li style="background-image: url(js.gif); 
-            background-repeat: no-repeat; 
-            -webkit-background-clip: text; 
-            -webkit-text-fill-color: transparent;
-            -webkit-font-smoothing: antialiased;">
-Js
-</li>
-<li style="background-image: url(java.gif); 
-            background-repeat: no-repeat; 
-            -webkit-background-clip: text; 
-            -webkit-text-fill-color: transparent;
-            -webkit-font-smoothing: antialiased;">
-Java
-</li>
-</ul>
+<br>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=38&pause=1000&color=F79FE4&center=true&vCenter=true&width=435&lines=%F0%9F%90%A5Html..;%F0%9F%90%A6Css...;%F0%9F%90%9DJs...;%F0%9F%8D%83Java....)](https://git.io/typing-svg)
