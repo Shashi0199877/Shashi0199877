@@ -1,16 +1,22 @@
-### Hi there 👋
+<b>🏞️ • Hello,</b><BR><u>People
+....</u><BR>
+<p>🚀 • <b>!true</b> I am also <strike>not</strike> a person on this universe like you...</p>
+<I>🪶🌱 • &&</I>
+<BR>
+<BR>
+<b>🪴🌾🍀🍁🍃 • A Rookie...</b>
+<br>
+<br>
+<p>🌱🌴 • <b>Languages Learning : </b></p>
+<ul>
+<li>Html
+</li>
+<li>Css
+</li>
+<li>Js
+</li>
+<li>Java
+</li>
+</ul>
 
-<!--
-**Shashi0199877/Shashi0199877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
