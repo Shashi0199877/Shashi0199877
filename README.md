@@ -9,16 +9,19 @@
 <br>
 <p>🌱🌴 • <b>Languages Learning : </b></p>
 <ul>
-<li style="background-image: url(html.gif); 
+<li>
+<p style="background-image: url(html.gif); 
             background-repeat: repeat; 
             -webkit-background-clip: text; 
             -webkit-text-fill-color: transparent;
             -webkit-font-smoothing: antialiased;">
 Html
+</p>
 </li>
 <li style="background-image: url(css.gif); 
             background-repeat: no-repeat; 
-            -webkit-background-clip: text; 
+            background-color: 
+-webkit-background-clip: text; 
             -webkit-text-fill-color: transparent;
             -webkit-font-smoothing: antialiased;">
 Css
